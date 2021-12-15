@@ -1,0 +1,5 @@
+{
+  "navigationFallback": {
+    "rewrite": "https://outlook.office.com/"
+  }
+}
